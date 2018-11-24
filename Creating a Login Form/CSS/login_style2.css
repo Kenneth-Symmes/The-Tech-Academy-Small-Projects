@@ -72,7 +72,7 @@ input[type="text"]:focus, input[type="password"]:focus {
 @media (min-width:500px) {
     .login {
         width: 500px;
-        height: 323px;
+        height: 275px;
     }
     input[type="text"], input[type="password"] {
         width: 430px;
@@ -84,7 +84,7 @@ input[type="text"]:focus, input[type="password"]:focus {
         height:50px;
         margin: 45px 0 0 110px;
     }
-    .forgot a{
+    .forgot a {
         margin: 0 0 0 35%;
     }
     .chk {
@@ -110,7 +110,7 @@ input[type="text"]:focus, input[type="password"]:focus {
         height:40px;
         margin: 15% 0 0 7%;
     }
-    .forgot a{
+    .forgot a {
         margin: 0 0 0 25%;
     }
     .chk {
